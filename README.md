@@ -52,9 +52,9 @@ Reusable AI prompt templates for synthesising user research in minutes.
 
 Clickable prototypes built from real product briefs. Each one was built in under 60 minutes.
 
-| Prototype | Product | Built in |
+| Prototype | Product Link |
 |-----------|---------|---------|
-| Coming soon | — | — |
+|Electric Scooter App | https://yumna-pm.github.io/PM-toolkit/prototypes/revoo-scooter-app/index.html
 
 ---
 
