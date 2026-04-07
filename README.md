@@ -146,7 +146,8 @@ Current focus:
 
 Open to consulting work in CRO, experimentation, and AI-assisted product management.
 
-https://www.linkedin.com/in/yumna-m-92a275157/· https://www.notion.so/Hi-I-m-Yumna-I-m-an-Associate-Product-manager-2b5470cc0fb9805d9150d3386990a811
+Linkedin : https://www.linkedin.com/in/yumna-m-92a275157/
+Notion Portoflio : https://www.notion.so/Hi-I-m-Yumna-I-m-an-Associate-Product-manager-2b5470cc0fb9805d9150d3386990a811
 
 ---
 
